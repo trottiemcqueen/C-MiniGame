@@ -1,0 +1,15 @@
+C:\Users\Admin\C-MiniGame\obj\Debug\net8.0\C-MiniGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\C-MiniGame\obj\Debug\net8.0\C-MiniGame.AssemblyInfoInputs.cache
+C:\Users\Admin\C-MiniGame\obj\Debug\net8.0\C-MiniGame.AssemblyInfo.cs
+C:\Users\Admin\C-MiniGame\obj\Debug\net8.0\C-MiniGame.csproj.CoreCompileInputs.cache
+C:\Users\Admin\C-MiniGame\obj\Debug\net8.0\C-MiniGame.sourcelink.json
+C:\Users\Admin\C-MiniGame\bin\Debug\net8.0\C-MiniGame.exe
+C:\Users\Admin\C-MiniGame\bin\Debug\net8.0\C-MiniGame.deps.json
+C:\Users\Admin\C-MiniGame\bin\Debug\net8.0\C-MiniGame.runtimeconfig.json
+C:\Users\Admin\C-MiniGame\bin\Debug\net8.0\C-MiniGame.dll
+C:\Users\Admin\C-MiniGame\bin\Debug\net8.0\C-MiniGame.pdb
+C:\Users\Admin\C-MiniGame\obj\Debug\net8.0\C-MiniGame.dll
+C:\Users\Admin\C-MiniGame\obj\Debug\net8.0\refint\C-MiniGame.dll
+C:\Users\Admin\C-MiniGame\obj\Debug\net8.0\C-MiniGame.pdb
+C:\Users\Admin\C-MiniGame\obj\Debug\net8.0\C-MiniGame.genruntimeconfig.cache
+C:\Users\Admin\C-MiniGame\obj\Debug\net8.0\ref\C-MiniGame.dll
